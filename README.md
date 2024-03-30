@@ -47,6 +47,10 @@ This is a list of papers on blockchain, mainly listing papers that appeared at t
 - [Foundations of Dynamic BFT](https://doi.org/10.1109/SP46214.2022.9833787) IEEE S&P 2022.
 - [Using Throughput-Centric Byzantine Broadcast to Tolerate Malicious Majority in Blockchains](https://ieeexplore.ieee.org/document/9833617) IEEE S&P 2022.
 - [Red Belly: A Secure, Fair and Scalable Open Blockchain](https://ieeexplore.ieee.org/document/9519440) IEEE S&P 2021.
+- [On the Anonymity Guarantees of Anonymous Proof-of-Stake Protocols](https://ieeexplore.ieee.org/document/9519415) IEEE S&P 2021.
+- [Sync HotStuff: Simple and Practical Synchronous State Machine Replication](https://ieeexplore.ieee.org/document/9152792) IEEE S&P 2020.
+- [OHIE: Blockchain Scaling Made Simple](https://ieeexplore.ieee.org/document/9152798) IEEE S&P 2020.
+- [Ouroboros Crypsinous: Privacy-Preserving Proof-of-Stake](https://doi.org/10.1109/SP.2019.00063) IEEE S&P 2019.
 - [Thunderella: Blockchains with Optimistic Instant Confirmation](https://link.springer.com/chapter/10.1007/978-3-319-78375-8_1) EUROCRYPT 2018.
 - [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake blockchain](https://link.springer.com/chapter/10.1007/978-3-319-78375-8_3) EUROCRYPT 2018.
 - [Analysis of the Blockchain Protocol in Asynchronous Networks](https://link.springer.com/chapter/10.1007/978-3-319-56614-6_22) EUROCRYPT 2017.
