@@ -38,3 +38,16 @@ This is a list of papers on blockchain, mainly listing papers that appeared at t
 - [Revive: Rebalancing Off-Blockchain Payment Networks](https://dl.acm.org/doi/10.1145/3133956.3134033) ACM CCS 2017.
 - [Concurrency and Privacy with Payment-Channel Networks](https://dl.acm.org/doi/10.1145/3133956.3134096) ACM CCS 2017.
 - [TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub](https://www.ndss-symposium.org/ndss2017/ndss-2017-programme/tumblebit-untrusted-bitcoin-compatible-anonymous-payment-hub/) NDSS 2017.
+- [Bitcoin lightning network: Scalable off-chain instant payments](https://lightning.network/) Lightning Network, 2016.
+
+## Consensus
+- [Optimistic Fast Confirmation While Tolerating Malicious Majority in Blockchains](https://ieeexplore.ieee.org/document/10179323) IEEE S&P 2023.
+- [Bitcoin-Enhanced Proof-of-Stake Security: Possibilities and Impossibilities](https://doi.org/10.1109/SP46215.2023.10179426) IEEE S&P 2023.
+- [Tyr: Finding Consensus Failure Bugs in Blockchain System with Behaviour Divergent Model](https://ieeexplore.ieee.org/document/10179386) IEEE S&P 2023.
+- [Foundations of Dynamic BFT](https://doi.org/10.1109/SP46214.2022.9833787) IEEE S&P 2022.
+- [Using Throughput-Centric Byzantine Broadcast to Tolerate Malicious Majority in Blockchains](https://ieeexplore.ieee.org/document/9833617) IEEE S&P 2022.
+- [Red Belly: A Secure, Fair and Scalable Open Blockchain](https://ieeexplore.ieee.org/document/9519440) IEEE S&P 2021.
+- [Thunderella: Blockchains with Optimistic Instant Confirmation](https://link.springer.com/chapter/10.1007/978-3-319-78375-8_1) EUROCRYPT 2018.
+- [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake blockchain](https://link.springer.com/chapter/10.1007/978-3-319-78375-8_3) EUROCRYPT 2018.
+- [Analysis of the Blockchain Protocol in Asynchronous Networks](https://link.springer.com/chapter/10.1007/978-3-319-56614-6_22) EUROCRYPT 2017.
+- [The Bitcoin Backbone Protocol: Analysis and Applications](https://link.springer.com/chapter/10.1007/978-3-662-46803-6_10) EUROCRYPT 2015.
