@@ -30,6 +30,7 @@ This is a list of papers on blockchain, mainly listing papers that appeared at t
 - [Boomerang: Redundancy Improves Latency and Throughput in Payment-Channel Networks](https://link.springer.com/chapter/10.1007/978-3-030-51280-4_17) FC 2020.
 - [DLSAG: Non-interactive Refund Transactions for Interoperable Payment Channels in Monero](https://doi.org/10.1007/978-3-030-51280-4_18) FC 2020.
 - [Fail-safe Watchtowers and Short-lived Assertions for Payment Channels](https://dl.acm.org/doi/10.1145/3320269.3384716) AsiaCCS 2020.
+- [Multi-Party Virtual State Channels](https://link.springer.com/chapter/10.1007/978-3-030-17653-2_21) EUROCRYPT 2019.
 - [Atomic Multi-Channel Updates with Constant Collateral in Bitcoin-Compatible Payment-Channel Networks](https://dl.acm.org/doi/10.1145/3319535.3345666) ACM CCS 2019.
 - [Perun: Virtual Payment Hubs over Cryptocurrencies](https://ieeexplore.ieee.org/document/8835315) IEEE S&P 2019.
 - [Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/ndss-paper/anonymous-multi-hop-locks-for-blockchain-scalability-and-interoperability/) NDSS 2019.
