@@ -1,7 +1,7 @@
 # Blockchain-papers
 
 ## About
-This is a list of papers on blockchain, mainly listing papers that appeared at the cybersecurity conferences.
+This is a list of papers on blockchain, mainly listing papers that appeared at the cybersecurity conferences. The list is constantly updated...
 
 ## Payment channels
 - [BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs Supporting Variable Amounts](https://ieeexplore.ieee.org/document/10179427) IEEE S&P 2023.
