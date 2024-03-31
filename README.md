@@ -7,7 +7,8 @@ This is a list of papers on blockchain, mainly listing papers that appeared at t
 - [BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs Supporting Variable Amounts](https://ieeexplore.ieee.org/document/10179427) IEEE S&P 2023.
 - [Accio: Variable-Amount, Optimized-Unlinkable and NIZK-Free Off-Chain Payments via Hubs](https://dl.acm.org/doi/10.1145/3576915.3616577) ACM CCS 2023.
 - [Breaking and Fixing Virtual Channels: Domino Attack and Donner](https://www.ndss-symposium.org/ndss-paper/breaking-and-fixing-virtual-channels-domino-attack-and-donner/) NDSS 2023.
-- [R2: Boosting Liquidity in Payment Channel Networks with Online Admission Control](https://link.springer.com/chapter/10.1007/978-3-031-47754-6_18) FC 2023
+- [R2: Boosting Liquidity in Payment Channel Networks with Online Admission Control](https://link.springer.com/chapter/10.1007/978-3-031-47754-6_18) FC 2023.
+- [Get Me Out of This Payment! Bailout: An HTLC Re-routing Protocol](https://link.springer.com/chapter/10.1007/978-3-031-47751-5_6) FC 2023.
 - [Sleepy Channels: Bi-directional Payment Channels without Watchtowers](https://dl.acm.org/doi/10.1145/3548606.3559370) ACM CCS 2022.
 - [Thora: Atomic and Privacy-Preserving Multi-Channel Updates](https://doi.org/10.1145/3548606.3560556) ACM CCS 2022.
 - [Payment Channel Networks: Single-Hop Scheduling for Throughput Maximization](https://ieeexplore.ieee.org/document/9796862) IEEE INFOCOM 2022.
@@ -55,3 +56,6 @@ This is a list of papers on blockchain, mainly listing papers that appeared at t
 - [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake blockchain](https://link.springer.com/chapter/10.1007/978-3-319-78375-8_3) EUROCRYPT 2018.
 - [Analysis of the Blockchain Protocol in Asynchronous Networks](https://link.springer.com/chapter/10.1007/978-3-319-56614-6_22) EUROCRYPT 2017.
 - [The Bitcoin Backbone Protocol: Analysis and Applications](https://link.springer.com/chapter/10.1007/978-3-662-46803-6_10) EUROCRYPT 2015.
+
+## Blockchain Privacy
+- [Aggregate Cash Systems: A Cryptographic Investigation of Mimblewimble](https://link.springer.com/chapter/10.1007/978-3-030-17653-2_22) EUROCRYPT 2019.
