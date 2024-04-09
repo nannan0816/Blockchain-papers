@@ -40,6 +40,7 @@ This is a list of papers on blockchain, mainly listing papers that appeared at c
 - [Atomic Multi-Channel Updates with Constant Collateral in Bitcoin-Compatible Payment-Channel Networks](https://dl.acm.org/doi/10.1145/3319535.3345666) ACM CCS 2019.
 - [Perun: Virtual Payment Hubs over Cryptocurrencies](https://ieeexplore.ieee.org/document/8835315) IEEE S&P 2019.
 - [Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/ndss-paper/anonymous-multi-hop-locks-for-blockchain-scalability-and-interoperability/) NDSS 2019.
+- [General State Channel Networks](https://dl.acm.org/doi/10.1145/3243734.3243856) ACM CCS 2018.
 - [Bolt: Anonymous Payment Channels for Decentralized Currencies](https://dl.acm.org/doi/10.1145/3133956.3134093)  ACM CCS 2017.
 - [Revive: Rebalancing Off-Blockchain Payment Networks](https://dl.acm.org/doi/10.1145/3133956.3134033) ACM CCS 2017.
 - [Concurrency and Privacy with Payment-Channel Networks](https://dl.acm.org/doi/10.1145/3133956.3134096) ACM CCS 2017.
